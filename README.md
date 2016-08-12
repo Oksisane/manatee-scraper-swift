@@ -1,4 +1,4 @@
-# manatee-scraper-swift
+# manaTEAMS Swift Scraper
 Project Manatee Swift Scraper
 
 This project is still a work in progress.
